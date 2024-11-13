@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "java": "cls ; cd $dir && javac $fileName && java $fileNameWithoutExt",
+    }
+}
