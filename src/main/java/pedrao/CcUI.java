@@ -55,9 +55,9 @@ public class CcUI {
         amountDisplay.setPrefHeight(40);
         resultDisplay.setPrefHeight(40);
         resultDisplay.setEditable(false);
-        currencyDisplay.setStyle("-fx-font-size: 18; -fx-font-weight: bold; -fx-background-color: #f4f4f8");
-        amountDisplay.setStyle("-fx-font-size: 18; -fx-font-weight: bold; -fx-background-color: #f4f4f8");
-        resultDisplay.setStyle("-fx-font-size: 18; -fx-font-weight: bold; -fx-background-color: #f4f4f8");
+        currencyDisplay.setStyle("-fx-font-size: 18; -fx-font-weight: bold; -fx-background-color: #f4f4f9");
+        amountDisplay.setStyle("-fx-font-size: 18; -fx-font-weight: bold; -fx-background-color: #f4f4f9");
+        resultDisplay.setStyle("-fx-font-size: 18; -fx-font-weight: bold; -fx-background-color: #f4f4f9");
 
         Button changeThemeButton = new Button("\uD83D\uDD2E");
         closeAppButton = new Button("❌");
