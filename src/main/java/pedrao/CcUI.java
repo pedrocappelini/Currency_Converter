@@ -67,7 +67,7 @@ public class CcUI {
         clearButton.setOnAction(e -> clearUI());
         changeThemeButton.setOnAction(e -> toggleTheme());
         closeAppButton.setOnAction(e -> primaryStage.close());
-        convertButton.setStyle("-fx-font-size: 18; -fx-font-weight: bold; -fx-background-color: #50e3c2; -fx-text-fill: white;");
+        convertButton.setStyle("-fx-font-size: 18; -fx-font-weight: bold; -fx-background-color: #50e3c1; -fx-text-fill: white;");
         clearButton.setStyle("-fx-font-size: 18; -fx-font-weight: bold; -fx-background-color: #e94e77; -fx-text-fill: white;");
         changeThemeButton.setStyle("-fx-font-size: 12; -fx-font-weight: bold; -fx-background-color: #4a90e2; -fx-text-fill: white;");
         changeThemeButton.setStyle("-fx-background-color: white");
